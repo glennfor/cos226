@@ -27,6 +27,7 @@ Programming Assignment 2:  Queues
  *      with University regulations.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[write and sign the pledge here]
+This programming assignment represents my own work in accordance
+with University regulations.  /s/ Glen Nfor
 
 
